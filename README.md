@@ -1,4 +1,4 @@
-#  💼 Diversity-Inclusion-HR-Dashboard
+#  💼 Diversity-Inclusion-HR-Dashboard | Power BI Portfolio Project
 ## 🧩 Project Overview
 **Human Resources** at a leading telecom company has been working to improve gender diversity, with a particular focus on executive-level representation. Despite ongoing efforts, gender balance in leadership has remained stagnant. This project was developed as part of the **PwC Virtual Case Experience on Forage**, simulating a real-world HR analytics engagement. It explores key HR metrics—**hiring**, **promotion**, **performanc**e, and **turnover**—to identify barriers to gender equity at the executive level. The final deliverable includes an interactive Power BI dashboard, advanced DAX-based KPIs, and data-driven recommendations to support the company’s diversity and inclusion goals.  
 ## 📌 2. Objectives of the Analysis
